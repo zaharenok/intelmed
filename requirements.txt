@@ -3,3 +3,4 @@ numpy
 pandas
 pydeck
 streamlit
+pdfplumber==0.5.28
